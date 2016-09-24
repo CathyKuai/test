@@ -35,3 +35,6 @@ while True:# HW 1-2
     else:
         print (" The word you entered did not exist. ")
         
+a= 0
+print (a)
+        
